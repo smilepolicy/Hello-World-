@@ -1,2 +1,3 @@
 # Hello-World-
 just checking out how a repository works...
+My name's Harish, and I'm learning to use pygame.
